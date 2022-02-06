@@ -28,7 +28,7 @@ O jogo foi desenvolvido tendo como base um dispositivo Google Pixel 3A.
 
 ## Vídeo da Aplicação
 
-[Ver vídeo no Loom](https://www.loom.com/share/9b2909aa790443dca514a5b325395c13)
+[Ver vídeo no Loom (sem som)](https://www.loom.com/share/9b2909aa790443dca514a5b325395c13)
 
 ## Assets
 
