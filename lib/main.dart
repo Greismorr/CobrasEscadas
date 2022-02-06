@@ -1,6 +1,4 @@
 import 'package:audioplayers/audio_cache.dart';
-import 'package:audioplayers/audioplayers.dart';
-import 'package:cobras_e_escadas/constants/audio_constants.dart';
 import 'package:cobras_e_escadas/screens/tela_do_jogo.dart';
 import 'package:cobras_e_escadas/stores/cobras_escadas.dart';
 import 'package:flutter/material.dart';

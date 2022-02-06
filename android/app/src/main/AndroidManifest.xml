@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.cobras_e_escadas">
    <application
-        android:label="Cobras e Escadas"
+        android:label="Cobras e"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

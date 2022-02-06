@@ -1,4 +1,3 @@
-import 'package:cobras_e_escadas/constants/app_theme.dart';
 import 'package:cobras_e_escadas/stores/cobras_escadas.dart';
 import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';

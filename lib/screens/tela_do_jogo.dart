@@ -1,7 +1,5 @@
-import 'package:audioplayers/audio_cache.dart';
 import 'package:cobras_e_escadas/constants/app_theme.dart';
 import 'package:cobras_e_escadas/constants/elementos_do_tabuleiro_constants.dart';
-import 'package:cobras_e_escadas/constants/audio_constants.dart';
 import 'package:cobras_e_escadas/screens/tela_do_jogo_widgets/jogar_dados.dart';
 import 'package:cobras_e_escadas/stores/cobras_escadas.dart';
 import 'package:cobras_e_escadas/widgets/elemento_do_tabuleiro.dart';

@@ -1,10 +1,7 @@
-import 'package:audioplayers/audio_cache.dart';
-import 'package:cobras_e_escadas/constants/audio_constants.dart';
 import 'package:cobras_e_escadas/constants/elementos_do_tabuleiro_constants.dart';
 import 'package:cobras_e_escadas/dialogs/dialogo_evento_no_mapa.dart';
 import 'package:cobras_e_escadas/dialogs/dialogo_fim_de_jogo.dart';
 import 'package:cobras_e_escadas/dialogs/dialogo_vitoria.dart';
-import 'package:get_it/get_it.dart';
 import 'package:mobx/mobx.dart';
 part 'cobras_escadas.g.dart';
 
