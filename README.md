@@ -24,8 +24,11 @@ O jogo foi desenvolvido tendo como base um dispositivo Google Pixel 3A.
 
 ## Prints da Aplicação
 
-<img src="./assets/screenshots/jogo.png" width="200"> <img src="./assets/screenshots/andou.png" width="200"> <img src="./assets/screenshots/cobra.png" width="200"> <img src="./assets/screenshots/escada.png" width="200"> <img src="./assets/screenshots/escada.png" width="200"> <img src="./assets/screenshots/passou_da_caverna.png" width="200">
+<img src="./assets/screenshots/jogo.png" width="200"> <img src="./assets/screenshots/andou.png" width="200"> <img src="./assets/screenshots/cobra_print.png" width="200"> <img src="./assets/screenshots/escada_print.png" width="200"> <img src="./assets/screenshots/passou_da_caverna.png" width="200">
 
+## Vídeo da Aplicação
+
+[Ver vídeo no Loom](https://www.loom.com/share/9b2909aa790443dca514a5b325395c13)
 
 ## Assets
 
