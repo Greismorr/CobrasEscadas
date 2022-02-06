@@ -1,4 +1,4 @@
-# Mobile Game infantil baseado no jogo indiano "Cobras e Escadas"
+# <img alt="android studio" height="30" width="40" src="https://www.svgrepo.com/show/7115/android.svg"> Mobile Game infantil baseado no jogo indiano "Cobras e Escadas"
 
 As regras do jogo são simples: existem dois jogadores com o objetivo de chegar até a posição 100 do tabuleiro. Mas durante o percurso, caso caia numa casa onde há uma cabeça de cobra, deverá voltar para onde está localizado o rabo dela. Da mesma forma, caso caia na base de uma escada, poderá avançar para a outra ponta dela.
 
@@ -8,6 +8,8 @@ O jogo foi desenvolvido tendo como base um dispositivo Google Pixel 3A.
 
 ## Como executar o jogo
 
+### Primeira Opção:
+
 - Para fazer o aplicativo funcionar, basta abrir um terminal no seu repositório local do projeto e digitar:
 
         flutter pub get
@@ -15,6 +17,10 @@ O jogo foi desenvolvido tendo como base um dispositivo Google Pixel 3A.
 - Quando o comando terminar de rodar, digite no terminal:
 
         flutter run
+
+### Segunda Opção:
+
+-   Instale diretamente o apk disponível no repositório.
 
 ## Prints da Aplicação
 
